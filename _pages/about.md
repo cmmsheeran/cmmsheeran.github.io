@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
   <p>Center for the Study of Complex Systems</p>
   <p>University of Michigan</p>
   <p>Ann Arbor, MI</p>
