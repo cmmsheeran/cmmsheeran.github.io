@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cmmsheeran.github.io/al-folio/sitemap.xml
+Sitemap: https://cmmsheeran.github.io/sitemap.xml
