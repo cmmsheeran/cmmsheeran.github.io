@@ -8,13 +8,16 @@ nav_order: 1
 horizontal: true
 ---
 
-My research considers **SCALE**
-
+The overarching purpose of my research is in the elucidation of _scale_, most generally in complex systems but more specifically in the brain. 
 My current work develops this programme along three closely related directions:
 
-### Mesoscale structure and dynamics
+## Mesoscale structure and observables
+### What is a mesoscale structure, and how does it constrain dynamics?
+### blah blah
 
-### Coarse-graining and emergence
+## Coarse-graining and emergence
+### General network renormalization
+### A mechanism of emergence: Closure-defects and the emergent phenomena.  
 
 ### Collective organization (Ranking)
 
