@@ -32,3 +32,5 @@ I am a third year PhD student in Physics at the University of Michigan, working 
 
 You can find more about my current work on the [Research](/research/) page and
 my papers on the [Publications](/publications/) page.
+
+Philosophy of my research. 
