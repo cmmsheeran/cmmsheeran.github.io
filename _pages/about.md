@@ -27,14 +27,14 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD student in Physics at the University of Michigan, advised by Mark Newman and based in the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs).
+I am a PhD student in Physics at the University of Michigan, advised by Mark Newman and based in the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs). I hold a BA and MSci in Natural Sciences (Physics) from the University of Cambridge and a MPhil in Basic and Translational Neuroscience also from the University of Cambridge. 
 
-My research asks how interactions at one scale give rise to organized behavior at another. I develop mathematical and computational tools for identifying mesoscale structure in networked systems, relating that structure to dynamics, and determining when a coarse-grained description retains the mechanisms of the underlying system.
+My research revolves around the abstract notion of _scale_. How one can move from one scale to another in a dynamical system, what phenomena emerge as you do so, how interactions at a finer scale give rise to 'emergent' behaviour at a coarser scale and even more basically how can you mathematical define scale itself that is not inherently dependant on a concept of length. 
 
-I am particularly interested in the brain, where a relatively stable anatomical network supports rapidly changing patterns of coordinated activity. My current work combines network science, stochastic dynamics, statistical mechanics, spectral methods, and probabilistic inference.
+As a student of complexity, I am most interested in the human mind and brain and application of my mathematical machinery to questions of Neuroscience and Psychology. 
 
 [Research](/research/) · [Publications](/publications/) · [CV](/cv/)
 
 ## Research philosophy
 
-Complex systems admit many possible descriptions. The central problem is not merely to choose a scale, but to determine which scales are dynamically meaningful, what information they preserve, and what becomes predictable at them. I therefore treat scale as an object of theory rather than an arbitrary modelling decision.
+hmmmmm
