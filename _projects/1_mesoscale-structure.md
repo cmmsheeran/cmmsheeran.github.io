@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mesoscale structure and dynamics
+title: Mesoscale Structure
 description: How network architecture, dynamics, and readout jointly determine coarse-grained organization.
 importance: 1
 category: current research
