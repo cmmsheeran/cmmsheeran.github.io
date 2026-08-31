@@ -37,4 +37,4 @@ As a student of complexity, I am most interested in the human mind and brain and
 
 ## Research philosophy
 
-hmmmmm
+My orientation toward research is one of mechanistic explanation through mathematics, not merely agnostic description. This positioning has resulted as a way of counter-acting the saturation of information-theoretic theories in complex system and particularly theoretical neuroscience. Information-theory although although highly powerful is entirely unable to contend with _why?_ and _how?_: why a phenomena exists and how it exists. Put simply information, at the end of the day, contains no intrinsic meaning. 
