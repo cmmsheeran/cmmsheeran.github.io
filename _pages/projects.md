@@ -2,7 +2,6 @@
 layout: page
 title: research
 permalink: /research/
-description: Scale, structure, and dynamics in complex systems.
 nav: true
 nav_order: 1
 horizontal: true
