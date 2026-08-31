@@ -11,13 +11,13 @@ profile:
   more_info: >
     <p>Center for the Study of Complex Systems</p>
     <p>University of Michigan</p>
-    <p>Ann Arbor, MI</p>
+    <p>Ann Arbor, Michigan</p>
 
 selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -27,10 +27,14 @@ latest_posts:
   limit: 3
 ---
 
-I am a third year PhD student in Physics at the University of Michigan, working under Mark Newman at the
-[Center for the Study of Complex Systems](https://lsa.umich.edu/cscs).
+I am a PhD student in Physics at the University of Michigan, advised by Mark Newman and based in the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs).
 
-You can find more about my current work on the [Research](/research/) page and
-my papers on the [Publications](/publications/) page.
+My research asks how interactions at one scale give rise to organized behavior at another. I develop mathematical and computational tools for identifying mesoscale structure in networked systems, relating that structure to dynamics, and determining when a coarse-grained description retains the mechanisms of the underlying system.
 
-Philosophy of my research. 
+I am particularly interested in the brain, where a relatively stable anatomical network supports rapidly changing patterns of coordinated activity. My current work combines network science, stochastic dynamics, statistical mechanics, spectral methods, and probabilistic inference.
+
+[Research](/research/) · [Publications](/publications/) · [CV](/cv/)
+
+## Research philosophy
+
+Complex systems admit many possible descriptions. The central problem is not merely to choose a scale, but to determine which scales are dynamically meaningful, what information they preserve, and what becomes predictable at them. I therefore treat scale as an object of theory rather than an arbitrary modelling decision.
