@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-#THIS WEBSITE IS UNDER CONSTRUCTION - READ AT YOUR OWN RISK!
+# THIS WEBSITE IS UNDER CONSTRUCTION - READ AT YOUR OWN RISK!
 
 I am a PhD student in Physics at the University of Michigan, advised by Mark Newman and based in the [Center for the Study of Complex Systems](https://lsa.umich.edu/cscs). I hold a BA and MSci in Natural Sciences (Physics) from the University of Cambridge and a MPhil in Basic and Translational Neuroscience also from the University of Cambridge. 
 
